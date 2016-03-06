@@ -1,0 +1,32 @@
+ div.img {
+                        margin: 5px;
+                        border: 1px solid #ccc;
+                        float: left;
+                        width: 180px;
+                        } 
+
+               div.img:hover {
+                        border: 1px solid #777;
+                             }
+
+               div.img img {
+                        width: 100%;
+                        height: auto;
+                            }
+
+             div{background-color:rgb(255,144,118);}
+
+.container{
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+             footer {
+                  background-color:rgb(255,144,118);
+                  color:black;
+                  clear:both;
+                  text-align:center;
+                  padding:5px;  
+                  font-family: Monaco, Consolas, "Lucida Console", monospace;       
+                    }
