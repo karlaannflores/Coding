@@ -1,0 +1,29 @@
+.problemparagraphs {
+            background-color:light-pink;
+            color:black;
+            margin:20px;
+            padding:20px;
+            font-family: Monaco, Consolas, "Lucida Console", monospace;
+            } 
+      
+
+ div{background-color:rgb(255,144,118);}
+
+
+ footer {
+            background-color:rgb(255,144,118);
+            color:black;
+            clear:both;
+            text-align:center;
+            padding:5px;  
+            font-family: Monaco, Consolas, "Lucida Console", monospace;       
+        }
+
+.container{
+      font-family: Monaco, Consolas, "Lucida Console", monospace;
+      font-size: 50px;
+      text-align: center;
+}
+
+
+
