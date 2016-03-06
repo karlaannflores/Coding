@@ -14,10 +14,10 @@ div{
 .CountryBox{
 	border-style: double;
 	width:340px;
-    height:560px;
-    text-align: center;
-    margin: 0 auto;
-    font-family:Monaco, Consolas, "Lucida Console", monospace;
+    	height:580px;
+	text-align: center; 
+	margin: 0 auto;
+	font-family:Monaco, Consolas, "Lucida Console", monospace;
 	font-size: 14px;
 }
 
